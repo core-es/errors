@@ -46,9 +46,9 @@
 
 // var a{
 // var a{}
-// Chrome - SyntaxError: Unexpected token [
-// Firefox - SyntaxError: unexpected token: '['
-// Safari - SyntaxError: Unexpected token '['
+// Chrome - SyntaxError: Unexpected token {
+// Firefox - SyntaxError: unexpected token: '{'
+// Safari - SyntaxError: Unexpected token '{'
 // IE Edge - Expected ';'
 
 // var a}
