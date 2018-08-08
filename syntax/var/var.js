@@ -1,3 +1,9 @@
+/*
+ * Below are the possible syntax errors with all stupid typo mistakes for var variables.
+ * Tested in Chrome, Firefox, Safari and IE Edge.
+ * Venkat.R
+*/
+
 // var a=
 // Chrome - SyntaxError: Unexpected end of input
 // Firefox - SyntaxError: expected expression, got end of script
