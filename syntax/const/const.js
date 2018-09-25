@@ -4,6 +4,15 @@
  * Venkat.R
 */
 
+
+// const s = '123';
+// console.log(s[0]); // 1
+// s[0] = '5';
+// Chrome - Uncaught SyntaxError: Identifier 's' has already been declared
+// Firefox - SyntaxError: redeclaration of const s
+// Safari - No Error, Number will be one
+// IE Edge - No Error, Number will be one
+
 // const a=
 // Chrome - SyntaxError: Unexpected end of input
 // Firefox - SyntaxError: expected expression, got end of script
